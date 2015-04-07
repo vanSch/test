@@ -1,3 +1,3 @@
 # test
 
-this ist a test
+this is a test
